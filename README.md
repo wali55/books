@@ -10,3 +10,4 @@
 2. Why we need to use the useEffect hook?
 3. Creating context and use context to share data across other components of the application.
 4. How to create a custom hook?
+5. How to use useCallback hook to fix bugs?
